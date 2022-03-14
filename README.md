@@ -4,7 +4,7 @@ A collection of scripts to interact with Windows Active Directory via PowerShell
 ## Requirements
 To work this scripts it's necessary has been installed and import the ActiveDirectory module.
 
-Fill the variables on ADconfig.conf file to customize the scripts for your AD installation.
+Fill the variables on ADTools.conf file to customize the scripts for your AD installation.
 
 ## List of scripts
 - eternumPasswords.ps1
